@@ -6,14 +6,6 @@ import java.util.Random;
 
 import org.junit.Test;
 
-import thread_pool.ThreadPool;
-//   A Thread Pool is a way of managing multiple threads with multiple workloads.
-//   It works by collecting a list of tasks to be performed by a thread.
-//   A pool of threads is then created, and each thread takes a task from the list and does that work.
-//   This continues until all the tasks are done.
-//   When all the tasks are complete, the thread pool has finished its job.
-//   This test will use a Thread pool to convert a large amount of lower case characters to upper case
-
 //1. Fill in the ThreadPool and Worker classes and the Task interface according to the Thread Pool UML Diagram.
 
 public class ThreadPoolTest {
